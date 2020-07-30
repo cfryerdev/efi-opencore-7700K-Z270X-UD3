@@ -1,5 +1,5 @@
 # What is this?
-My EFI structure for Open Core 0.5.9 on my 7700K Gigabyte Z270X-UD3 Hackintosh.
+My EFI structure for Open Core 0.6.0 on my 7700K Gigabyte Z270X-UD3 Hackintosh.
 
 # Hackintosh Hardware Compat Specs?
 * Intel i7-7770
